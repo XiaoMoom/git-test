@@ -13,4 +13,8 @@ public class HelloGit {
         System.out.println("hello Git");
     }
 
+
+    public void test(){
+        System.out.println("test");
+    }
 }
